@@ -1,1 +1,1 @@
-window.CALCITE_CONFIG={url:'',key:''}; // Supabase project URL and publishable (or anon) key ONLY.
+window.CALCITE_CONFIG={https://esfpneahxobcbzqhxjip.supabase.co:'',sb_publishable_Vy7mxhdVvPlEfEm0tJcYCQ_CkZaTE1A:''}; 
